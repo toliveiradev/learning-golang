@@ -12,7 +12,7 @@ Welcome to my collection of Go Lang projects! This repository is a showcase of m
 - 👨‍💻 Description: A simple booking app developed during the course.
 
 #### Project 2: Data structures
-- 🔗 [Guide Link] (https://blog.logrocket.com/comprehensive-guide-data-structures-go/)
+- 🔗 [Guide Link](https://blog.logrocket.com/comprehensive-guide-data-structures-go/)
 - 📂 [Project Folder](/data-structures)
 - 👨‍💻 Description: Data structures in Go
 
