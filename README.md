@@ -11,6 +11,11 @@ Welcome to my collection of Go Lang projects! This repository is a showcase of m
 - 📂 [Project Folder](/booking-app)
 - 👨‍💻 Description: A simple booking app developed during the course.
 
+#### Project 2: Data structures
+- 🔗 [Guide Link] (https://blog.logrocket.com/comprehensive-guide-data-structures-go/)
+- 📂 [Project Folder](/data-structures)
+- 👨‍💻 Description: Data structures in Go
+
 ## How to Run the Projects?
 
 Each project comes with its own set of instructions. Navigate to the project folder, follow the README, and you'll be up and running in no time!
