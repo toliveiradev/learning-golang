@@ -16,6 +16,11 @@ Welcome to my collection of Go Lang projects! This repository is a showcase of m
 - 📂 [Project Folder](/data-structures)
 - 👨‍💻 Description: Data structures in Go
 
+#### Project 3: Data structures II
+- 🎥 [Serie Link](https://youtube.com/playlist?list=PL0q7mDmXPZm7s7weikYLpNZBKk5dCoWm6&si=frN6xzFNTEyh91e-)
+- 📂 [Project Folder](/data-structures-II)
+- 👨‍💻 Description: Data structures in Go
+
 ## How to Run the Projects?
 
 Each project comes with its own set of instructions. Navigate to the project folder, follow the README, and you'll be up and running in no time!
