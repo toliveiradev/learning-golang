@@ -20,7 +20,7 @@ Welcome to my collection of Go Lang projects! This repository is a showcase of m
 
 ### 3. [Data Structures in Golang Series](https://youtube.com/playlist?list=PL0q7mDmXPZm7s7weikYLpNZBKk5dCoWm6&si=X4pAZeh10bU0fiwB) by JamieDev
 
-#### Project: Data structures II
+#### Project: Data structures
 - 🎥 [Serie Link](https://youtube.com/playlist?list=PL0q7mDmXPZm7s7weikYLpNZBKk5dCoWm6&si=frN6xzFNTEyh91e-)
 - 📂 [Project Folder](/data-structures-II)
 - 👨‍💻 Description: Data structures in Go
