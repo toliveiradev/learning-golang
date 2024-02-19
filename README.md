@@ -25,6 +25,14 @@ Welcome to my collection of Go Lang projects! This repository is a showcase of m
 - 📂 [Project Folder](/data-structures-II)
 - 👨‍💻 Description: Data structures in Go
 
+#### Project: Binary Tree
+- 📂 [Project Folder](/binary-tree)
+- 👨‍💻 Description: Binary Trees in Go by myself
+
+#### Project: Graph
+- 📂 [Project Folder](/graph)
+- 👨‍💻 Description: Graphs in Go by myself
+
 ## How to Run the Projects?
 
 Each project comes with its own set of instructions. Navigate to the project folder, follow the README, and you'll be up and running in no time!
