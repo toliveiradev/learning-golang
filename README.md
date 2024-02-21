@@ -25,9 +25,13 @@ Welcome to my collection of Go Lang projects! This repository is a showcase of m
 - 📂 [Project Folder](/data-structures-II)
 - 👨‍💻 Description: Data structures in Go
 
+### 4. Binary Tree Training Session by myself
+
 #### Project: Binary Tree
 - 📂 [Project Folder](/binary-tree)
 - 👨‍💻 Description: Binary Trees in Go by myself
+
+### 5. Graph Training Session by myself
 
 #### Project: Graph
 - 📂 [Project Folder](/graph)
