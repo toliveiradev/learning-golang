@@ -37,6 +37,13 @@ Welcome to my collection of Go Lang projects! This repository is a showcase of m
 - 📂 [Project Folder](/graph)
 - 👨‍💻 Description: Graphs in Go by myself
 
+### 6. [Learn Go Programming by Building 11 Projects - Full Course](https://www.youtube.com/watch?v=jFfo23yIWac&t=4988s)
+
+#### Movies CRUD
+- 🎥 [Course Link](https://www.youtube.com/watch?v=jFfo23yIWac&t=4988s)
+- 📂 [Project Folder](/movies-crud)
+- 👨‍💻 Description: A simple CRUD with movies. PKG Application.
+
 ## How to Run the Projects?
 
 Each project comes with its own set of instructions. Navigate to the project folder, follow the README, and you'll be up and running in no time!
