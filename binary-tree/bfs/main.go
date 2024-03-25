@@ -75,6 +75,15 @@ func (t *BinaryTree) BFS() {
 	}
 }
 
+func (node *Node) DFS() {
+	if node == nil {
+		return
+	}
+	fmt.Printf("%v ", node.data)
+	node.left.DFS()
+	node.right.DFS()
+}
+
 func main() {
 	// Create a binary tree
 	tree := &BinaryTree{}
@@ -89,6 +98,9 @@ func main() {
 	tree.createNode(18)
 
 	// Print the tree in in-order traversal
-	fmt.Println("In-order traversal of the binary tree:")
+	fmt.Println("BFS traversal of the binary tree:")
 	tree.BFS()
+
+	fmt.Println("DFS traversal of the binary tree:")
+	tree.root.DFS()
 }
